@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+torch
+transformers
+chromadb
+faiss-cpu
+tqdm
+sqlite3
+nltk
+streamlit
